@@ -1,16 +1,21 @@
-Disk Imager Script
-This Bash script is designed to provide a user-friendly interface for imaging disks on Linux systems. It utilizes the built-in dd tool for disk copying and provides additional features such as checking connected devices, creating hash values for image verification, and robust error handling.
+# Disk Imager Script
 
-Features
-Device Detection: Automatically detects connected devices for imaging.
-Disk Imaging: Utilizes the dd tool to create disk images.
-Hash Generation: Capable of creating hash values for generated disk images to ensure data integrity.
-Error Handling: Implements robust error handling to provide a smooth user experience.
-User-Friendly Interface: Designed with ease of use in mind, ensuring simplicity and clarity for users.
-Prerequisites
-Linux operating system
-Bash shell
-Usage
+This Bash script is designed to provide a user-friendly interface for imaging disks on Linux systems. It utilizes the built-in `dd` tool for disk copying and provides additional features such as checking connected devices, creating hash values for image verification, and robust error handling.
+
+## Features
+
+- **Device Detection**: Automatically detects connected devices for imaging.
+- **Disk Imaging**: Utilizes the `dd` tool to create disk images.
+- **Hash Generation**: Capable of creating hash values for generated disk images to ensure data integrity.
+- **Error Handling**: Implements robust error handling to provide a smooth user experience.
+- **User-Friendly Interface**: Designed with ease of use in mind, ensuring simplicity and clarity for users.
+
+## Prerequisites
+
+- Linux operating system
+- Bash shell
+
+## Usage
 Clone the repository to your local machine:
 
 ```bash
