@@ -33,6 +33,7 @@ Make the script executable:
 ```bash
 chmod +x disk_imager.sh
 ```
+## Important: The code is very messy don't judge me that's my first try.
 Run the script:
 
 ```bash
