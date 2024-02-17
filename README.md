@@ -26,7 +26,6 @@ cd disk-imager
 Make the script executable:
 
 ```bash
-Copy code
 chmod +x disk_imager.sh
 ```
 Run the script:
