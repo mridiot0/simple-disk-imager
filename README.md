@@ -33,10 +33,12 @@ Make the script executable:
 ```bash
 chmod +x disk_imager.sh
 ```
-## Important: The code is very messy don't judge me that's my first try.
+
 Run the script:
 
 ```bash
 ./disk_imager.sh
 ```
 Follow the on-screen instructions to perform disk imaging.
+
+## Important: The code is very messy, don't judge me! that's my first try.
